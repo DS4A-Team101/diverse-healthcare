@@ -58,4 +58,15 @@ Use `git branch` to find out what branch you are on
 
 ![image](https://user-images.githubusercontent.com/83491621/117557398-55862580-b027-11eb-850f-a29e5f6b0a72.png)
 
+13. Once you've merged, you will see confirmation that the pull request was successfully merged and closed.
+
+14. Finally, as proof, I can go to the `main` branch and find that the file `bruno-scratch` now belongs here. 
+
+15. So to close the circle, this is an important last step. The remote repository (on Github.com) is up to date with your change. However, the local repository is now behind. You made the chain in your local `scratch-branch` branch but your local main is behind the new file we added. So you will want to go to your local branch, `main` branch and do
+
+`git pull origin main`
+
+![image](https://user-images.githubusercontent.com/83491621/117557592-5ae46f80-b029-11eb-9688-b39fdb511776.png)
+
+
 
