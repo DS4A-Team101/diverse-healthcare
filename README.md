@@ -54,3 +54,8 @@ Use `git branch` to find out what branch you are on
 
 ![image](https://user-images.githubusercontent.com/83491621/117557209-751c4e80-b025-11eb-88e0-3ff81e002255.png)
 
+12. **IMPORTANT HERE** Ideally, we want to assign the pull request to somebody other than yourself to review the changes and approve. For the moment, we'll skip this step and just go to merge.
+
+![image](https://user-images.githubusercontent.com/83491621/117557398-55862580-b027-11eb-850f-a29e5f6b0a72.png)
+
+
