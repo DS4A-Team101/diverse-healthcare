@@ -9,9 +9,7 @@ I created a `scratch/` folder in the parent directory of this repository. I thou
 
 1. After you have joined the repository from the email invitation, it's time to download a local copy of the web server repository into your local computer. There is two ways: via SSH and HTTPS. I'll suggest HTTPS so it uses your username and password to authenticate. Code >  HTTPS and grab the link
 
-<img src="https://user-images.githubusercontent.com/83491621/117556867-4b155d00-b022-11eb-98da-a9906f3e04f1.png" width="200">
-
-![image](https://user-images.githubusercontent.com/83491621/117556867-4b155d00-b022-11eb-98da-a9906f3e04f1.png)
+<img src="https://user-images.githubusercontent.com/83491621/117556867-4b155d00-b022-11eb-98da-a9906f3e04f1.png" align = "center" width="400">
 
 2. In your terminal, go to a folder where you want to store your local repository. We are going to clone here. After you authenticate, it should look like this:
 
