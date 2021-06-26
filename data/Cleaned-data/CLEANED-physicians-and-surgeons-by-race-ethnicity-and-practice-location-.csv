@@ -1,0 +1,893 @@
+,Primary Practice County,Race/Ethnicity,Count of Licensees
+0,Alameda,African-American/Black/African,148
+1,Alameda,American Indian/ Native America,6
+2,Alameda,Asian - Cambodian,1
+3,Alameda,Asian - Chinese,284
+4,Alameda,Asian - Indian,273
+5,Alameda,Asian - Indonesian,2
+6,Alameda,Asian - Japanese,20
+7,Alameda,Asian - Korean,41
+8,Alameda,Asian - Other Asian,34
+9,Alameda,Asian - Pakistani,15
+10,Alameda,Asian - Thai,5
+11,Alameda,Asian - Vietnamese,53
+12,Alameda,Caucasian/White/European/Middle,1039
+13,Alameda,Other,28
+14,Alameda,Latino/Hispanic - Central American,8
+15,Alameda,Latino/Hispanic - Cuban,3
+16,Alameda,Latino/Hispanic - Mexican,46
+17,Alameda,Latino/Hispanic - Other Hispanic,12
+18,Alameda,Latino/Hispanic - Puerto Rican,9
+19,Alameda,Latino/Hispanic - South American,13
+20,Alameda,Malaysian,1
+21,Alameda,Native Hawaiian - Filipino,67
+22,Alameda,Native Hawaiian - Hawaiian,3
+23,Alameda,Other,7
+24,Alameda,Other,72
+25,Alameda,Taiwanese,27
+26,Alpine,Caucasian/White/European/Middle,2
+27,Amador,Asian - Chinese,1
+28,Amador,Asian - Indian,2
+29,Amador,Caucasian/White/European/Middle,31
+30,Amador,Latino/Hispanic - Mexican,1
+31,Amador,Latino/Hispanic - Other Hispanic,1
+32,Amador,Native Hawaiian - Filipino,1
+33,Butte,African-American/Black/African,2
+34,Butte,American Indian/ Native America,1
+35,Butte,Asian - Chinese,6
+36,Butte,Asian - Indian,11
+37,Butte,Asian - Japanese,1
+38,Butte,Asian - Korean,2
+39,Butte,Asian - Other Asian,2
+40,Butte,Asian - Pakistani,2
+41,Butte,Asian - Thai,1
+42,Butte,Caucasian/White/European/Middle,178
+43,Butte,Other,1
+44,Butte,Latino/Hispanic - Mexican,2
+45,Butte,Latino/Hispanic - Other Hispanic,1
+46,Butte,Latino/Hispanic - South American,4
+47,Butte,Native Hawaiian - Filipino,4
+48,Butte,Other,8
+49,Calaveras,Caucasian/White/European/Middle,33
+50,Calaveras,Other,1
+51,Calaveras,Latino/Hispanic - Cuban,1
+52,Calaveras,Latino/Hispanic - Mexican,1
+53,Calaveras,Native Hawaiian - Filipino,2
+54,Colusa,Caucasian/White/European/Middle,2
+55,Colusa,Latino/Hispanic - Puerto Rican,1
+56,Colusa,Latino/Hispanic - South American,1
+57,Contra Costa,African-American/Black/African,56
+58,Contra Costa,American Indian/ Native America,1
+59,Contra Costa,Asian - Cambodian,3
+60,Contra Costa,Asian - Chinese,156
+61,Contra Costa,Asian - Indian,133
+62,Contra Costa,Asian - Indonesian,3
+63,Contra Costa,Asian - Japanese,14
+64,Contra Costa,Asian - Korean,27
+65,Contra Costa,Asian - Other Asian,16
+66,Contra Costa,Asian - Pakistani,18
+67,Contra Costa,Asian - Thai,3
+68,Contra Costa,Asian - Vietnamese,19
+69,Contra Costa,Caucasian/White/European/Middle,841
+70,Contra Costa,Other,14
+71,Contra Costa,Latino/Hispanic - Central American,6
+72,Contra Costa,Latino/Hispanic - Cuban,1
+73,Contra Costa,Latino/Hispanic - Mexican,29
+74,Contra Costa,Latino/Hispanic - Other Hispanic,17
+75,Contra Costa,Latino/Hispanic - Puerto Rican,5
+76,Contra Costa,Latino/Hispanic - South American,15
+77,Contra Costa,Native Hawaiian - Filipino,40
+78,Contra Costa,Native Hawaiian - Guamanian,1
+79,Contra Costa,Other,2
+80,Contra Costa,Other,32
+81,Contra Costa,Taiwanese,8
+82,Del Norte,Asian - Chinese,1
+83,Del Norte,Caucasian/White/European/Middle,10
+84,El Dorado,African-American/Black/African,4
+85,El Dorado,Asian - Chinese,6
+86,El Dorado,Asian - Indian,7
+87,El Dorado,Asian - Japanese,1
+88,El Dorado,Asian - Korean,1
+89,El Dorado,Asian - Other Asian,1
+90,El Dorado,Caucasian/White/European/Middle,121
+91,El Dorado,Other,2
+92,El Dorado,Latino/Hispanic - Mexican,3
+93,El Dorado,Latino/Hispanic - Other Hispanic,1
+94,El Dorado,Native Hawaiian - Filipino,3
+95,El Dorado,Native Hawaiian - Hawaiian,1
+96,El Dorado,Other,4
+97,Fresno,African-American/Black/African,40
+98,Fresno,American Indian/ Native America,4
+99,Fresno,Asian - Cambodian,1
+100,Fresno,Asian - Chinese,50
+101,Fresno,Asian - Indian,124
+102,Fresno,Asian - Japanese,15
+103,Fresno,Asian - Korean,12
+104,Fresno,Asian - Laotian/Hmong,5
+105,Fresno,Asian - Other Asian,12
+106,Fresno,Asian - Pakistani,19
+107,Fresno,Asian - Thai,9
+108,Fresno,Asian - Vietnamese,10
+109,Fresno,Caucasian/White/European/Middle,422
+110,Fresno,Other,10
+111,Fresno,Latino/Hispanic - Central American,5
+112,Fresno,Latino/Hispanic - Cuban,1
+113,Fresno,Latino/Hispanic - Mexican,79
+114,Fresno,Latino/Hispanic - Other Hispanic,13
+115,Fresno,Latino/Hispanic - Puerto Rican,7
+116,Fresno,Latino/Hispanic - South American,18
+117,Fresno,Native Hawaiian - Filipino,47
+118,Fresno,Native Hawaiian - Other Pacific,3
+119,Fresno,Other,6
+120,Fresno,Other,47
+121,Fresno,Taiwanese,3
+122,Glenn,Caucasian/White/European/Middle,5
+123,Glenn,Latino/Hispanic - Mexican,2
+124,Humboldt,African-American/Black/African,1
+125,Humboldt,American Indian/ Native America,7
+126,Humboldt,Asian - Chinese,3
+127,Humboldt,Asian - Indian,2
+128,Humboldt,Asian - Vietnamese,1
+129,Humboldt,Caucasian/White/European/Middle,93
+130,Humboldt,Latino/Hispanic - Mexican,2
+131,Humboldt,Latino/Hispanic - South American,2
+132,Humboldt,Native Hawaiian - Filipino,1
+133,Humboldt,Other,1
+134,Humboldt,Other,1
+135,Imperial,African-American/Black/African,1
+136,Imperial,Asian - Cambodian,1
+137,Imperial,Asian - Indian,12
+138,Imperial,Asian - Korean,1
+139,Imperial,Asian - Other Asian,1
+140,Imperial,Asian - Pakistani,6
+141,Imperial,Asian - Thai,1
+142,Imperial,Caucasian/White/European/Middle,18
+143,Imperial,Latino/Hispanic - Cuban,2
+144,Imperial,Latino/Hispanic - Mexican,12
+145,Imperial,Latino/Hispanic - Other Hispanic,2
+146,Imperial,Latino/Hispanic - Puerto Rican,1
+147,Imperial,Latino/Hispanic - South American,3
+148,Imperial,Malaysian,1
+149,Imperial,Native Hawaiian - Filipino,8
+150,Imperial,Other,1
+151,Imperial,Other,6
+152,Inyo,Caucasian/White/European/Middle,19
+153,Kern,African-American/Black/African,32
+154,Kern,American Indian/ Native America,2
+155,Kern,Asian - Chinese,29
+156,Kern,Asian - Indian,94
+157,Kern,Asian - Japanese,3
+158,Kern,Asian - Korean,17
+159,Kern,Asian - Other Asian,13
+160,Kern,Asian - Pakistani,7
+161,Kern,Asian - Thai,2
+162,Kern,Asian - Vietnamese,18
+163,Kern,Caucasian/White/European/Middle,214
+164,Kern,Other,4
+165,Kern,Latino/Hispanic - Central American,1
+166,Kern,Latino/Hispanic - Cuban,1
+167,Kern,Latino/Hispanic - Mexican,26
+168,Kern,Latino/Hispanic - Other Hispanic,9
+169,Kern,Latino/Hispanic - Puerto Rican,1
+170,Kern,Latino/Hispanic - South American,12
+171,Kern,Native Hawaiian - Filipino,55
+172,Kern,Native Hawaiian - Other Pacific,1
+173,Kern,Other,1
+174,Kern,Other,23
+175,Kern,Taiwanese,7
+176,Kings,African-American/Black/African,7
+177,Kings,American Indian/ Native America,3
+178,Kings,Asian - Chinese,4
+179,Kings,Asian - Indian,6
+180,Kings,Asian - Japanese,1
+181,Kings,Asian - Korean,1
+182,Kings,Asian - Other Asian,1
+183,Kings,Asian - Pakistani,1
+184,Kings,Asian - Thai,1
+185,Kings,Asian - Vietnamese,3
+186,Kings,Caucasian/White/European/Middle,34
+187,Kings,Latino/Hispanic - Mexican,5
+188,Kings,Latino/Hispanic - Other Hispanic,1
+189,Kings,Latino/Hispanic - Puerto Rican,1
+190,Kings,Native Hawaiian - Filipino,9
+191,Kings,Other,4
+192,Kings,Taiwanese,1
+193,Lake,African-American/Black/African,5
+194,Lake,American Indian/ Native America,1
+195,Lake,Asian - Chinese,1
+196,Lake,Asian - Indian,1
+197,Lake,Asian - Korean,1
+198,Lake,Asian - Thai,2
+199,Lake,Caucasian/White/European/Middle,26
+200,Lake,Other,1
+201,Lake,Latino/Hispanic - Mexican,1
+202,Lake,Latino/Hispanic - South American,1
+203,Lake,Native Hawaiian - Filipino,2
+204,Lassen,Asian - Indian,4
+205,Lassen,Caucasian/White/European/Middle,18
+206,Lassen,Latino/Hispanic - Mexican,1
+207,Lassen,Other,1
+208,Los Angeles,African-American/Black/African,703
+209,Los Angeles,American Indian/ Native America,26
+210,Los Angeles,Asian - Cambodian,10
+211,Los Angeles,Asian - Chinese,1249
+212,Los Angeles,Asian - Indian,858
+213,Los Angeles,Asian - Indonesian,14
+214,Los Angeles,Asian - Japanese,210
+215,Los Angeles,Asian - Korean,564
+216,Los Angeles,Asian - Laotian/Hmong,1
+217,Los Angeles,Asian - Other Asian,218
+218,Los Angeles,Asian - Pakistani,67
+219,Los Angeles,Asian - Thai,63
+220,Los Angeles,Asian - Vietnamese,267
+221,Los Angeles,Caucasian/White/European/Middle,7404
+222,Los Angeles,Other,111
+223,Los Angeles,Latino/Hispanic - Central American,77
+224,Los Angeles,Latino/Hispanic - Cuban,51
+225,Los Angeles,Latino/Hispanic - Mexican,497
+226,Los Angeles,Latino/Hispanic - Other Hispanic,158
+227,Los Angeles,Latino/Hispanic - Puerto Rican,41
+228,Los Angeles,Latino/Hispanic - South American,222
+229,Los Angeles,Malaysian,5
+230,Los Angeles,Native Hawaiian - Fijian,2
+231,Los Angeles,Native Hawaiian - Filipino,544
+232,Los Angeles,Native Hawaiian - Guamanian,4
+233,Los Angeles,Native Hawaiian - Hawaiian,5
+234,Los Angeles,Native Hawaiian - Other Pacific,9
+235,Los Angeles,Native Hawaiian - Samoan,3
+236,Los Angeles,Native Hawaiian - Tongan,3
+237,Los Angeles,Other,48
+238,Los Angeles,Other,483
+239,Los Angeles,Singaporean,3
+240,Los Angeles,Taiwanese,228
+241,Madera,African-American/Black/African,5
+242,Madera,American Indian/ Native America,1
+243,Madera,Asian - Chinese,6
+244,Madera,Asian - Indian,8
+245,Madera,Asian - Japanese,2
+246,Madera,Asian - Korean,1
+247,Madera,Asian - Pakistani,6
+248,Madera,Asian - Vietnamese,1
+249,Madera,Caucasian/White/European/Middle,44
+250,Madera,Other,1
+251,Madera,Latino/Hispanic - Mexican,8
+252,Madera,Latino/Hispanic - Puerto Rican,1
+253,Madera,Latino/Hispanic - South American,1
+254,Madera,Native Hawaiian - Filipino,3
+255,Madera,Other,2
+256,Madera,Taiwanese,1
+257,Marin,African-American/Black/African,8
+258,Marin,American Indian/ Native America,4
+259,Marin,Asian - Chinese,25
+260,Marin,Asian - Indian,15
+261,Marin,Asian - Japanese,6
+262,Marin,Asian - Korean,8
+263,Marin,Asian - Other Asian,2
+264,Marin,Asian - Thai,1
+265,Marin,Asian - Vietnamese,3
+266,Marin,Caucasian/White/European/Middle,545
+267,Marin,Other,5
+268,Marin,Latino/Hispanic - Mexican,11
+269,Marin,Latino/Hispanic - Other Hispanic,4
+270,Marin,Latino/Hispanic - Puerto Rican,2
+271,Marin,Latino/Hispanic - South American,6
+272,Marin,Native Hawaiian - Filipino,2
+273,Marin,Native Hawaiian - Guamanian,1
+274,Marin,Other,1
+275,Marin,Other,6
+276,Marin,Taiwanese,2
+277,Mariposa,Caucasian/White/European/Middle,7
+278,Mendocino,African-American/Black/African,1
+279,Mendocino,Asian - Chinese,2
+280,Mendocino,Asian - Indian,2
+281,Mendocino,Asian - Japanese,1
+282,Mendocino,Caucasian/White/European/Middle,80
+283,Mendocino,Other,1
+284,Mendocino,Latino/Hispanic - Mexican,1
+285,Mendocino,Latino/Hispanic - South American,2
+286,Mendocino,Other,2
+287,Merced,African-American/Black/African,4
+288,Merced,American Indian/ Native America,1
+289,Merced,Asian - Chinese,8
+290,Merced,Asian - Indian,26
+291,Merced,Asian - Japanese,4
+292,Merced,Asian - Laotian/Hmong,2
+293,Merced,Asian - Other Asian,4
+294,Merced,Asian - Pakistani,2
+295,Merced,Asian - Thai,2
+296,Merced,Asian - Vietnamese,5
+297,Merced,Caucasian/White/European/Middle,54
+298,Merced,Other,3
+299,Merced,Latino/Hispanic - Central American,1
+300,Merced,Latino/Hispanic - Cuban,2
+301,Merced,Latino/Hispanic - Mexican,4
+302,Merced,Latino/Hispanic - Other Hispanic,1
+303,Merced,Latino/Hispanic - Puerto Rican,1
+304,Merced,Latino/Hispanic - South American,2
+305,Merced,Native Hawaiian - Filipino,11
+306,Merced,Native Hawaiian - Other Pacific,1
+307,Merced,Other,4
+308,Merced,Taiwanese,1
+309,Modoc,Caucasian/White/European/Middle,4
+310,Mono,Asian - Vietnamese,1
+311,Mono,Caucasian/White/European/Middle,6
+312,Mono,Latino/Hispanic - Puerto Rican,1
+313,Monterey,African-American/Black/African,13
+314,Monterey,American Indian/ Native America,1
+315,Monterey,Asian - Chinese,8
+316,Monterey,Asian - Indian,13
+317,Monterey,Asian - Indonesian,1
+318,Monterey,Asian - Japanese,9
+319,Monterey,Asian - Korean,4
+320,Monterey,Asian - Other Asian,1
+321,Monterey,Asian - Pakistani,2
+322,Monterey,Asian - Vietnamese,6
+323,Monterey,Caucasian/White/European/Middle,294
+324,Monterey,Other,6
+325,Monterey,Latino/Hispanic - Central American,1
+326,Monterey,Latino/Hispanic - Cuban,3
+327,Monterey,Latino/Hispanic - Mexican,19
+328,Monterey,Latino/Hispanic - Other Hispanic,11
+329,Monterey,Latino/Hispanic - South American,4
+330,Monterey,Native Hawaiian - Fijian,1
+331,Monterey,Native Hawaiian - Filipino,22
+332,Monterey,Other,1
+333,Monterey,Other,9
+334,Monterey,Taiwanese,1
+335,Napa,African-American/Black/African,6
+336,Napa,American Indian/ Native America,3
+337,Napa,Asian - Chinese,7
+338,Napa,Asian - Indian,7
+339,Napa,Asian - Japanese,1
+340,Napa,Asian - Korean,5
+341,Napa,Asian - Other Asian,1
+342,Napa,Asian - Pakistani,2
+343,Napa,Asian - Vietnamese,5
+344,Napa,Caucasian/White/European/Middle,179
+345,Napa,Other,1
+346,Napa,Latino/Hispanic - Cuban,1
+347,Napa,Latino/Hispanic - Mexican,3
+348,Napa,Latino/Hispanic - Other Hispanic,1
+349,Napa,Latino/Hispanic - Puerto Rican,1
+350,Napa,Malaysian,1
+351,Napa,Native Hawaiian - Filipino,11
+352,Napa,Native Hawaiian - Hawaiian,1
+353,Napa,Other,6
+354,Napa,Taiwanese,1
+355,Nevada,African-American/Black/African,1
+356,Nevada,American Indian/ Native America,1
+357,Nevada,Asian - Cambodian,1
+358,Nevada,Asian - Chinese,3
+359,Nevada,Asian - Indian,3
+360,Nevada,Asian - Japanese,1
+361,Nevada,Asian - Pakistani,1
+362,Nevada,Asian - Vietnamese,2
+363,Nevada,Caucasian/White/European/Middle,107
+364,Nevada,Other,2
+365,Nevada,Other,1
+366,Nevada,Other,1
+367,Orange,African-American/Black/African,76
+368,Orange,American Indian/ Native America,11
+369,Orange,Asian - Cambodian,9
+370,Orange,Asian - Chinese,368
+371,Orange,Asian - Indian,369
+372,Orange,Asian - Indonesian,3
+373,Orange,Asian - Japanese,78
+374,Orange,Asian - Korean,277
+375,Orange,Asian - Laotian/Hmong,1
+376,Orange,Asian - Other Asian,67
+377,Orange,Asian - Pakistani,25
+378,Orange,Asian - Thai,24
+379,Orange,Asian - Vietnamese,458
+380,Orange,Caucasian/White/European/Middle,2632
+381,Orange,Other,39
+382,Orange,Latino/Hispanic - Central American,18
+383,Orange,Latino/Hispanic - Cuban,27
+384,Orange,Latino/Hispanic - Mexican,114
+385,Orange,Latino/Hispanic - Other Hispanic,35
+386,Orange,Latino/Hispanic - Puerto Rican,8
+387,Orange,Latino/Hispanic - South American,61
+388,Orange,Native Hawaiian - Fijian,1
+389,Orange,Native Hawaiian - Filipino,131
+390,Orange,Native Hawaiian - Hawaiian,5
+391,Orange,Native Hawaiian - Other Pacific,2
+392,Stanislaus,Asian - Pakistani,6
+393,Orange,Other,18
+394,Orange,Other,188
+395,Orange,Singaporean,2
+396,Orange,Taiwanese,90
+397,Placer,African-American/Black/African,9
+398,Placer,American Indian/ Native America,3
+399,Placer,Asian - Chinese,42
+400,Placer,Asian - Indian,56
+401,Placer,Asian - Japanese,6
+402,Placer,Asian - Korean,6
+403,Placer,Asian - Laotian/Hmong,1
+404,Placer,Asian - Other Asian,2
+405,Placer,Asian - Pakistani,6
+406,Placer,Asian - Thai,1
+407,Placer,Asian - Vietnamese,8
+408,Placer,Caucasian/White/European/Middle,368
+409,Placer,Other,3
+410,Placer,Latino/Hispanic - Central American,1
+411,Placer,Latino/Hispanic - Cuban,1
+412,Placer,Latino/Hispanic - Mexican,11
+413,Placer,Latino/Hispanic - Other Hispanic,3
+414,Placer,Latino/Hispanic - Puerto Rican,4
+415,Placer,Latino/Hispanic - South American,3
+416,Placer,Native Hawaiian - Filipino,23
+417,Placer,Native Hawaiian - Hawaiian,1
+418,Placer,Other,3
+419,Placer,Other,19
+420,Placer,Taiwanese,2
+421,Plumas,African-American/Black/African,1
+422,Plumas,Asian - Chinese,1
+423,Plumas,Caucasian/White/European/Middle,10
+424,Riverside,African-American/Black/African,80
+425,Riverside,American Indian/ Native America,4
+426,Riverside,Asian - Cambodian,1
+427,Riverside,Asian - Chinese,84
+428,Riverside,Asian - Indian,142
+429,Riverside,Asian - Indonesian,6
+430,Riverside,Asian - Japanese,9
+431,Riverside,Asian - Korean,56
+432,Riverside,Asian - Laotian/Hmong,1
+433,Riverside,Asian - Other Asian,30
+434,Riverside,Asian - Pakistani,14
+435,Riverside,Asian - Thai,5
+436,Riverside,Asian - Vietnamese,69
+437,Riverside,Caucasian/White/European/Middle,906
+438,Riverside,Other,9
+439,Riverside,Latino/Hispanic - Central American,6
+440,Riverside,Latino/Hispanic - Cuban,4
+441,Riverside,Latino/Hispanic - Mexican,75
+442,Riverside,Latino/Hispanic - Other Hispanic,19
+443,Riverside,Latino/Hispanic - Puerto Rican,5
+444,Riverside,Latino/Hispanic - South American,31
+445,Riverside,Native Hawaiian - Fijian,1
+446,Riverside,Native Hawaiian - Filipino,113
+447,Riverside,Native Hawaiian - Guamanian,1
+448,Riverside,Native Hawaiian - Hawaiian,2
+449,Riverside,Native Hawaiian - Other Pacific,2
+450,Riverside,Other,3
+451,Riverside,Other,57
+452,Riverside,Taiwanese,17
+453,Sacramento,African-American/Black/African,78
+454,Sacramento,American Indian/ Native America,4
+455,Sacramento,Asian - Chinese,175
+456,Sacramento,Asian - Indian,162
+457,Sacramento,Asian - Indonesian,2
+458,Sacramento,Asian - Japanese,37
+459,Sacramento,Asian - Korean,32
+460,Sacramento,Asian - Laotian/Hmong,5
+461,Sacramento,Asian - Other Asian,29
+462,Sacramento,Asian - Pakistani,17
+463,Sacramento,Asian - Thai,11
+464,Sacramento,Asian - Vietnamese,52
+465,Sacramento,Caucasian/White/European/Middle,1052
+466,Sacramento,Other,14
+467,Sacramento,Latino/Hispanic - Central American,5
+468,Sacramento,Latino/Hispanic - Cuban,2
+469,Sacramento,Latino/Hispanic - Mexican,56
+470,Sacramento,Latino/Hispanic - Other Hispanic,11
+471,Sacramento,Latino/Hispanic - Puerto Rican,5
+472,Sacramento,Latino/Hispanic - South American,21
+473,Sacramento,Malaysian,2
+474,Sacramento,Native Hawaiian - Fijian,1
+475,Sacramento,Native Hawaiian - Filipino,63
+476,Sacramento,Native Hawaiian - Guamanian,3
+477,Sacramento,Native Hawaiian - Hawaiian,1
+478,Sacramento,Native Hawaiian - Other Pacific,1
+479,Sacramento,Other,3
+480,Sacramento,Other,49
+481,Sacramento,Taiwanese,17
+482,San Benito,Asian - Indian,1
+483,San Benito,Asian - Pakistani,2
+484,San Benito,Caucasian/White/European/Middle,10
+485,San Benito,Latino/Hispanic - Cuban,1
+486,San Benito,Latino/Hispanic - Mexican,4
+487,San Benito,Latino/Hispanic - Other Hispanic,1
+488,San Benito,Other,1
+489,San Bernardino,African-American/Black/African,90
+490,San Bernardino,American Indian/ Native America,6
+491,San Bernardino,Asian - Cambodian,1
+492,San Bernardino,Asian - Chinese,164
+493,San Bernardino,Asian - Indian,194
+494,San Bernardino,Asian - Indonesian,6
+495,San Bernardino,Asian - Japanese,22
+496,San Bernardino,Asian - Korean,82
+497,San Bernardino,Asian - Other Asian,36
+498,San Bernardino,Asian - Pakistani,17
+499,San Bernardino,Asian - Thai,17
+500,San Bernardino,Asian - Vietnamese,84
+501,San Bernardino,Caucasian/White/European/Middle,799
+502,San Bernardino,Other,14
+503,San Bernardino,Latino/Hispanic - Central American,12
+504,San Bernardino,Latino/Hispanic - Cuban,3
+505,San Bernardino,Latino/Hispanic - Mexican,65
+506,San Bernardino,Latino/Hispanic - Other Hispanic,14
+507,San Bernardino,Latino/Hispanic - Puerto Rican,8
+508,San Bernardino,Latino/Hispanic - South American,26
+509,San Bernardino,Malaysian,2
+510,San Bernardino,Native Hawaiian - Fijian,1
+511,San Bernardino,Native Hawaiian - Filipino,132
+512,San Bernardino,Native Hawaiian - Guamanian,1
+513,San Bernardino,Native Hawaiian - Hawaiian,3
+514,San Bernardino,Native Hawaiian - Other Pacific,3
+515,San Bernardino,Other,9
+516,San Bernardino,Other,58
+517,San Bernardino,Taiwanese,31
+518,San Diego,African-American/Black/African,100
+519,San Diego,American Indian/ Native America,23
+520,San Diego,Asian - Cambodian,5
+521,San Diego,Asian - Chinese,201
+522,San Diego,Asian - Indian,222
+523,San Diego,Asian - Indonesian,1
+524,San Diego,Asian - Japanese,34
+525,San Diego,Asian - Korean,79
+526,San Diego,Asian - Laotian/Hmong,1
+527,San Diego,Asian - Other Asian,47
+528,San Diego,Asian - Pakistani,10
+529,San Diego,Asian - Thai,11
+530,San Diego,Asian - Vietnamese,106
+531,San Diego,Caucasian/White/European/Middle,3168
+532,San Diego,Other,37
+533,San Diego,Latino/Hispanic - Central American,16
+534,San Diego,Latino/Hispanic - Cuban,11
+535,San Diego,Latino/Hispanic - Mexican,184
+536,San Diego,Latino/Hispanic - Other Hispanic,56
+537,San Diego,Latino/Hispanic - Puerto Rican,29
+538,San Diego,Latino/Hispanic - South American,80
+539,San Diego,Native Hawaiian - Filipino,124
+540,San Diego,Native Hawaiian - Hawaiian,4
+541,San Diego,Native Hawaiian - Other Pacific,3
+542,San Diego,Native Hawaiian - Samoan,1
+543,San Diego,Other,12
+544,San Diego,Other,104
+545,San Diego,Taiwanese,23
+546,San Francisco,African-American/Black/African,73
+547,San Francisco,American Indian/ Native America,8
+548,San Francisco,Asian - Chinese,351
+549,San Francisco,Asian - Indian,102
+550,San Francisco,Asian - Indonesian,1
+551,San Francisco,Asian - Japanese,42
+552,San Francisco,Asian - Korean,62
+553,San Francisco,Asian - Other Asian,21
+554,San Francisco,Asian - Pakistani,4
+555,San Francisco,Asian - Thai,8
+556,San Francisco,Asian - Vietnamese,31
+557,San Francisco,Caucasian/White/European/Middle,1405
+558,San Francisco,Other,11
+559,San Francisco,Latino/Hispanic - Central American,11
+560,San Francisco,Latino/Hispanic - Cuban,7
+561,San Francisco,Latino/Hispanic - Mexican,52
+562,San Francisco,Latino/Hispanic - Other Hispanic,19
+563,San Francisco,Latino/Hispanic - Puerto Rican,12
+564,San Francisco,Latino/Hispanic - South American,34
+565,San Francisco,Native Hawaiian - Fijian,1
+566,San Francisco,Native Hawaiian - Filipino,36
+567,San Francisco,Native Hawaiian - Guamanian,1
+568,San Francisco,Native Hawaiian - Hawaiian,1
+569,San Francisco,Native Hawaiian - Other Pacific,1
+570,San Francisco,Other,1
+571,San Francisco,Other,48
+572,San Francisco,Singaporean,1
+573,San Francisco,Taiwanese,19
+574,San Joaquin,African-American/Black/African,32
+575,San Joaquin,American Indian/ Native America,5
+576,San Joaquin,Asian - Chinese,58
+577,San Joaquin,Asian - Indian,96
+578,San Joaquin,Asian - Japanese,12
+579,San Joaquin,Asian - Korean,10
+580,San Joaquin,Asian - Other Asian,5
+581,San Joaquin,Asian - Pakistani,6
+582,San Joaquin,Asian - Thai,2
+583,San Joaquin,Asian - Vietnamese,25
+584,San Joaquin,Caucasian/White/European/Middle,214
+585,San Joaquin,Other,4
+586,San Joaquin,Latino/Hispanic - Central American,2
+587,San Joaquin,Latino/Hispanic - Mexican,11
+588,San Joaquin,Latino/Hispanic - Other Hispanic,2
+589,San Joaquin,Latino/Hispanic - Puerto Rican,2
+590,San Joaquin,Latino/Hispanic - South American,10
+591,San Joaquin,Native Hawaiian - Fijian,2
+592,San Joaquin,Native Hawaiian - Filipino,71
+593,San Joaquin,Native Hawaiian - Guamanian,1
+594,San Joaquin,Native Hawaiian - Other Pacific,2
+595,San Joaquin,Other,3
+596,San Joaquin,Other,16
+597,San Joaquin,Taiwanese,3
+598,San Luis Obispo,African-American/Black/African,7
+599,San Luis Obispo,American Indian/ Native America,2
+600,San Luis Obispo,Asian - Chinese,4
+601,San Luis Obispo,Asian - Indian,4
+602,San Luis Obispo,Asian - Japanese,3
+603,San Luis Obispo,Asian - Other Asian,3
+604,San Luis Obispo,Asian - Vietnamese,2
+605,San Luis Obispo,Caucasian/White/European/Middle,292
+606,San Luis Obispo,Other,5
+607,San Luis Obispo,Latino/Hispanic - Central American,1
+608,San Luis Obispo,Latino/Hispanic - Cuban,1
+609,San Luis Obispo,Latino/Hispanic - Mexican,9
+610,San Luis Obispo,Latino/Hispanic - Other Hispanic,1
+611,San Luis Obispo,Latino/Hispanic - Puerto Rican,1
+612,San Luis Obispo,Latino/Hispanic - South American,5
+613,San Luis Obispo,Native Hawaiian - Filipino,9
+614,San Luis Obispo,Other,1
+615,San Luis Obispo,Other,5
+616,San Luis Obispo,Taiwanese,1
+617,San Mateo,African-American/Black/African,20
+618,San Mateo,American Indian/ Native America,4
+619,San Mateo,Asian - Chinese,148
+620,San Mateo,Asian - Indian,72
+621,San Mateo,Asian - Indonesian,2
+622,San Mateo,Asian - Japanese,23
+623,San Mateo,Asian - Korean,27
+624,San Mateo,Asian - Other Asian,12
+625,San Mateo,Asian - Pakistani,2
+626,San Mateo,Asian - Thai,3
+627,San Mateo,Asian - Vietnamese,22
+628,San Mateo,Caucasian/White/European/Middle,722
+629,San Mateo,Other,8
+630,San Mateo,Latino/Hispanic - Central American,9
+631,San Mateo,Latino/Hispanic - Cuban,3
+632,San Mateo,Latino/Hispanic - Mexican,18
+633,San Mateo,Latino/Hispanic - Other Hispanic,7
+634,San Mateo,Latino/Hispanic - Puerto Rican,6
+635,San Mateo,Latino/Hispanic - South American,8
+636,San Mateo,Native Hawaiian - Fijian,1
+637,San Mateo,Native Hawaiian - Filipino,44
+638,San Mateo,Native Hawaiian - Other Pacific,1
+639,San Mateo,Other,3
+640,San Mateo,Other,26
+641,San Mateo,Taiwanese,17
+642,Santa Barbara,African-American/Black/African,7
+643,Santa Barbara,American Indian/ Native America,5
+644,Santa Barbara,Asian - Chinese,15
+645,Santa Barbara,Asian - Indian,14
+646,Santa Barbara,Asian - Japanese,4
+647,Santa Barbara,Asian - Korean,6
+648,Santa Barbara,Asian - Other Asian,1
+649,Santa Barbara,Asian - Pakistani,2
+650,Santa Barbara,Asian - Thai,1
+651,Santa Barbara,Asian - Vietnamese,3
+652,Santa Barbara,Caucasian/White/European/Middle,463
+653,Santa Barbara,Other,2
+654,Santa Barbara,Latino/Hispanic - Central American,4
+655,Santa Barbara,Latino/Hispanic - Cuban,1
+656,Santa Barbara,Latino/Hispanic - Mexican,30
+657,Santa Barbara,Latino/Hispanic - Other Hispanic,7
+658,Santa Barbara,Latino/Hispanic - Puerto Rican,1
+659,Santa Barbara,Latino/Hispanic - South American,3
+660,Santa Barbara,Native Hawaiian - Filipino,7
+661,Santa Barbara,Native Hawaiian - Hawaiian,2
+662,Santa Barbara,Other,2
+663,Santa Barbara,Other,5
+664,Santa Clara,African-American/Black/African,68
+665,Santa Clara,American Indian/ Native America,7
+666,Santa Clara,Asian - Cambodian,3
+667,Santa Clara,Asian - Chinese,417
+668,Santa Clara,Asian - Indian,360
+669,Santa Clara,Asian - Japanese,49
+670,Santa Clara,Asian - Korean,85
+671,Santa Clara,Asian - Laotian/Hmong,1
+672,Santa Clara,Asian - Other Asian,42
+673,Santa Clara,Asian - Pakistani,21
+674,Santa Clara,Asian - Thai,4
+675,Santa Clara,Asian - Vietnamese,186
+676,Santa Clara,Caucasian/White/European/Middle,1590
+677,Santa Clara,Other,19
+678,Santa Clara,Latino/Hispanic - Central American,8
+679,Santa Clara,Latino/Hispanic - Cuban,4
+680,Santa Clara,Latino/Hispanic - Mexican,70
+681,Santa Clara,Latino/Hispanic - Other Hispanic,25
+682,Santa Clara,Latino/Hispanic - Puerto Rican,9
+683,Santa Clara,Latino/Hispanic - South American,32
+684,Santa Clara,Native Hawaiian - Filipino,74
+685,Santa Clara,Native Hawaiian - Guamanian,1
+686,Santa Clara,Native Hawaiian - Other Pacific,3
+687,Santa Clara,Other,11
+688,Santa Clara,Other,99
+689,Santa Clara,Singaporean,1
+690,Santa Clara,Taiwanese,45
+691,Santa Cruz,African-American/Black/African,5
+692,Santa Cruz,American Indian/ Native America,1
+693,Santa Cruz,Asian - Chinese,10
+694,Santa Cruz,Asian - Indian,16
+695,Santa Cruz,Asian - Japanese,2
+696,Santa Cruz,Asian - Korean,3
+697,Santa Cruz,Asian - Other Asian,1
+698,Santa Cruz,Asian - Vietnamese,1
+699,Santa Cruz,Caucasian/White/European/Middle,261
+700,Santa Cruz,Other,3
+701,Santa Cruz,Latino/Hispanic - Central American,1
+702,Santa Cruz,Latino/Hispanic - Cuban,2
+703,Santa Cruz,Latino/Hispanic - Mexican,14
+704,Santa Cruz,Latino/Hispanic - Other Hispanic,1
+705,Santa Cruz,Latino/Hispanic - Puerto Rican,1
+706,Santa Cruz,Latino/Hispanic - South American,4
+707,Santa Cruz,Native Hawaiian - Filipino,7
+708,Santa Cruz,Other,1
+709,Santa Cruz,Other,3
+710,Santa Cruz,Taiwanese,2
+711,Shasta,African-American/Black/African,2
+712,Shasta,Asian - Chinese,2
+713,Shasta,Asian - Indian,13
+714,Shasta,Asian - Korean,1
+715,Shasta,Asian - Other Asian,1
+716,Shasta,Asian - Pakistani,1
+717,Shasta,Caucasian/White/European/Middle,154
+718,Shasta,Latino/Hispanic - Mexican,6
+719,Shasta,Latino/Hispanic - Other Hispanic,2
+720,Shasta,Latino/Hispanic - Puerto Rican,1
+721,Shasta,Latino/Hispanic - South American,1
+722,Shasta,Native Hawaiian - Filipino,3
+723,Shasta,Other,2
+724,Siskiyou,Asian - Chinese,1
+725,Siskiyou,Asian - Indian,2
+726,Siskiyou,Caucasian/White/European/Middle,34
+727,Solano,African-American/Black/African,26
+728,Solano,American Indian/ Native America,3
+729,Solano,Asian - Chinese,40
+730,Solano,Asian - Indian,27
+731,Solano,Asian - Japanese,3
+732,Solano,Asian - Korean,6
+733,Solano,Asian - Other Asian,4
+734,Solano,Asian - Pakistani,6
+735,Solano,Asian - Thai,2
+736,Solano,Asian - Vietnamese,6
+737,Solano,Caucasian/White/European/Middle,197
+738,Solano,Other,3
+739,Solano,Latino/Hispanic - Cuban,1
+740,Solano,Latino/Hispanic - Mexican,14
+741,Solano,Latino/Hispanic - Puerto Rican,1
+742,Solano,Latino/Hispanic - South American,4
+743,Solano,Native Hawaiian - Filipino,34
+744,Solano,Other,2
+745,Solano,Other,9
+746,Solano,Taiwanese,4
+747,Sonoma,African-American/Black/African,6
+748,Sonoma,American Indian/ Native America,2
+749,Sonoma,Asian - Chinese,25
+750,Sonoma,Asian - Indian,17
+751,Sonoma,Asian - Japanese,7
+752,Sonoma,Asian - Korean,3
+753,Sonoma,Asian - Other Asian,10
+754,Sonoma,Asian - Pakistani,1
+755,Sonoma,Asian - Thai,2
+756,Sonoma,Asian - Vietnamese,6
+757,Sonoma,Caucasian/White/European/Middle,488
+758,Sonoma,Other,8
+759,Sonoma,Latino/Hispanic - Central American,4
+760,Sonoma,Latino/Hispanic - Cuban,1
+761,Sonoma,Latino/Hispanic - Mexican,15
+762,Sonoma,Latino/Hispanic - Other Hispanic,1
+763,Sonoma,Latino/Hispanic - South American,5
+764,Sonoma,Native Hawaiian - Filipino,12
+765,Sonoma,Other,4
+766,Sonoma,Other,10
+767,Sonoma,Taiwanese,4
+768,Stanislaus,African-American/Black/African,14
+769,Stanislaus,American Indian/ Native America,1
+770,Stanislaus,Asian - Cambodian,2
+771,Stanislaus,Asian - Chinese,51
+772,Stanislaus,Asian - Indian,59
+773,Stanislaus,Asian - Japanese,3
+774,Stanislaus,Asian - Korean,11
+775,Stanislaus,Asian - Laotian/Hmong,1
+776,Stanislaus,Asian - Other Asian,10
+777,Stanislaus,Asian - Thai,3
+778,Stanislaus,Asian - Vietnamese,18
+779,Stanislaus,Caucasian/White/European/Middle,227
+780,Stanislaus,Other,2
+781,Stanislaus,Latino/Hispanic - Central American,1
+782,Stanislaus,Latino/Hispanic - Mexican,19
+783,Stanislaus,Latino/Hispanic - Other Hispanic,4
+784,Stanislaus,Latino/Hispanic - Puerto Rican,2
+785,Stanislaus,Latino/Hispanic - South American,4
+786,Stanislaus,Native Hawaiian - Filipino,44
+787,Stanislaus,Other,3
+788,Stanislaus,Other,26
+789,Stanislaus,Taiwanese,6
+790,Sutter,African-American/Black/African,4
+791,Sutter,Asian - Chinese,9
+792,Sutter,Asian - Indian,24
+793,Sutter,Asian - Indonesian,1
+794,Sutter,Asian - Japanese,2
+795,Sutter,Asian - Pakistani,1
+796,Sutter,Asian - Vietnamese,3
+797,Sutter,Caucasian/White/European/Middle,49
+798,Sutter,Latino/Hispanic - Mexican,1
+799,Sutter,Latino/Hispanic - Other Hispanic,2
+800,Sutter,Native Hawaiian - Fijian,1
+801,Sutter,Native Hawaiian - Filipino,6
+802,Sutter,Native Hawaiian - Samoan,1
+803,Sutter,Other,1
+804,Tehama,Asian - Chinese,1
+805,Tehama,Asian - Indian,2
+806,Tehama,Asian - Other Asian,1
+807,Tehama,Caucasian/White/European/Middle,13
+808,Tehama,Native Hawaiian - Filipino,1
+809,Trinity,Caucasian/White/European/Middle,4
+810,Tulare,African-American/Black/African,13
+811,Tulare,American Indian/ Native America,2
+812,Tulare,Asian - Chinese,9
+813,Tulare,Asian - Indian,42
+814,Tulare,Asian - Japanese,3
+815,Tulare,Asian - Korean,2
+816,Tulare,Asian - Pakistani,2
+817,Tulare,Asian - Thai,1
+818,Tulare,Asian - Vietnamese,8
+819,Tulare,Caucasian/White/European/Middle,136
+820,Tulare,Other,4
+821,Tulare,Latino/Hispanic - Central American,4
+822,Tulare,Latino/Hispanic - Cuban,1
+823,Tulare,Latino/Hispanic - Mexican,22
+824,Tulare,Latino/Hispanic - Other Hispanic,4
+825,Tulare,Latino/Hispanic - Puerto Rican,1
+826,Tulare,Latino/Hispanic - South American,7
+827,Tulare,Native Hawaiian - Filipino,24
+828,Tulare,Native Hawaiian - Hawaiian,2
+829,Tulare,Native Hawaiian - Samoan,1
+830,Tulare,Other,9
+831,Tulare,Taiwanese,4
+832,Tuolumne,Asian - Chinese,2
+833,Tuolumne,Asian - Indian,3
+834,Tuolumne,Asian - Japanese,1
+835,Tuolumne,Caucasian/White/European/Middle,39
+836,Tuolumne,Latino/Hispanic - Other Hispanic,1
+837,Tuolumne,Native Hawaiian - Filipino,2
+838,Ventura,African-American/Black/African,12
+839,Ventura,American Indian/ Native America,3
+840,Ventura,Asian - Cambodian,1
+841,Ventura,Asian - Chinese,57
+842,Ventura,Asian - Indian,79
+843,Ventura,Asian - Japanese,13
+844,Ventura,Asian - Korean,32
+845,Ventura,Asian - Other Asian,7
+846,Ventura,Asian - Pakistani,3
+847,Ventura,Asian - Thai,3
+848,Ventura,Asian - Vietnamese,15
+849,Ventura,Caucasian/White/European/Middle,654
+850,Ventura,Other,8
+851,Ventura,Latino/Hispanic - Central American,6
+852,Ventura,Latino/Hispanic - Cuban,3
+853,Ventura,Latino/Hispanic - Mexican,32
+854,Ventura,Latino/Hispanic - Other Hispanic,8
+855,Ventura,Latino/Hispanic - Puerto Rican,6
+856,Ventura,Latino/Hispanic - South American,13
+857,Ventura,Native Hawaiian - Filipino,17
+858,Ventura,Native Hawaiian - Samoan,1
+859,Ventura,Other,3
+860,Ventura,Other,28
+861,Ventura,Singaporean,1
+862,Ventura,Taiwanese,8
+863,Yolo,African-American/Black/African,4
+864,Yolo,American Indian/ Native America,2
+865,Yolo,Asian - Chinese,20
+866,Yolo,Asian - Indian,14
+867,Yolo,Asian - Japanese,3
+868,Yolo,Asian - Korean,1
+869,Yolo,Asian - Other Asian,3
+870,Yolo,Asian - Thai,1
+871,Yolo,Asian - Vietnamese,2
+872,Yolo,Caucasian/White/European/Middle,165
+873,Yolo,Other,2
+874,Yolo,Latino/Hispanic - Mexican,5
+875,Yolo,Latino/Hispanic - Other Hispanic,3
+876,Yolo,Latino/Hispanic - Puerto Rican,2
+877,Yolo,Native Hawaiian - Filipino,3
+878,Yolo,Native Hawaiian - Other Pacific,1
+879,Yolo,Other,3
+880,Yolo,Taiwanese,1
+881,Yuba,African-American/Black/African,3
+882,Yuba,Asian - Chinese,2
+883,Yuba,Asian - Indian,6
+884,Yuba,Asian - Korean,1
+885,Yuba,Asian - Other Asian,1
+886,Yuba,Asian - Vietnamese,3
+887,Yuba,Caucasian/White/European/Middle,8
+888,Yuba,Other,1
+889,Yuba,Latino/Hispanic - South American,1
+890,Yuba,Native Hawaiian - Filipino,4
+891,Yuba,Other,1
